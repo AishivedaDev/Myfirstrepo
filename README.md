@@ -1,4 +1,4 @@
 # Myfirstrepo
 This is my first GIT repo.
 <br>
-Author-Sanchita Goswami
+Author-Sanchita Goswami chowdhury
